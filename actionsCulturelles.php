@@ -37,151 +37,70 @@
     </header>
     <main class="conteneur">
 
-        <section class="bloc-presentation">
-            <h2 class="titre-principal">La Culture pour tous, partout</h2>
-            <img src="images/Photos site/La Tannerie/Action-culturel---ateliers-d’initiation.png"
-                alt="Action culturelle à La Tannerie">
+        <div class="overlay-banniere">
+            <h1 class="titre-sur-image">La culture pour tous, partout</h1>
+        </div>
+        <img src="images/Photos site/La Tannerie/Action-culturel---ateliers-d’initiation.png"
+            alt="Ateliers d'initiation">
 
+        <section class="bloc-presentation">
+            <h2 class="titre-principal">Actions culturelles</h2>
             <p class="introduction">
                 À La Tannerie, nous croyons que la musique est un langage universel. Notre mission est de briser les
-                barrières
-                et de porter les notes là où on ne les attend pas. À travers nos projets de médiation, nous créons des
-                ponts
-                entre les artistes et les citoyens.
+                barrières et de porter les notes là où on ne les attend pas. À travers nos projets de médiation,
+                nous créons des ponts entre les artistes et les citoyens.
             </p>
 
             <div class="grille-actions">
                 <div class="carte-simple">
-                    <h3>🔍 Immersion</h3>
-                    <p>Venez découvrir les coulisses : visites guidées, accès aux répétitions, résidences d'artistes et
-                        balances sonores.</p>
+                    <h3>Immersion</h3>
+                    <p>Visites guidées, accès aux répétitions, résidences d'artistes et balances sonores.</p>
                 </div>
                 <div class="carte-simple">
-                    <h3>🎸 Pratique</h3>
-                    <p>Participez à des ateliers d’initiation ou de création. Ici, on ne fait pas qu'écouter, on
-                        fabrique aussi la musique.</p>
+                    <h3>Pratique</h3>
+                    <p>Participez à des ateliers d’initiation ou de création. Ici, on fabrique aussi la musique.</p>
                 </div>
                 <div class="carte-simple">
-                    <h3>🤝 Sur-mesure</h3>
-                    <p>Chaque projet est unique. Nous adaptons le rythme et le support selon vos besoins et vos envies.
-                    </p>
-                </div>
-            </div>
-            <div class="separateurGauche"></div>
-            <div class="focus-projets">
-                <h3>Nos projets phares en cours :</h3>
-                <div class="liste-accordeons">
-                    <details>
-                        <summary>Concerts au Centre Pénitentiaire <span class="fleche">▼</span></summary>
-                        <div class="contenu-texte">
-                            <p>Nous intervenons au Centre Pénitentiaire de Bourg-en-Bresse pour offrir des moments
-                                d'évasion
-                                à travers des concerts et des ateliers de pratique musicale directe.</p>
-                        </div>
-                    </details>
-                    <details>
-                        <summary>Open-Mic & Ateliers d'écriture <span class="fleche">▼</span></summary>
-                        <div class="contenu-texte">
-                            <p>Toutes les semaines, La Tannerie devient un atelier d'écriture. Venez poser sur des prods
-                                et affiner vos textes avec nos intervenants passionnés.</p>
-                        </div>
-                    </details>
-                    <details>
-                        <summary>Campagn’Arts : La culture en milieu rural <span class="fleche">▼</span></summary>
-                        <div class="contenu-texte">
-                            <p>La musique n'appartient pas qu'à la ville ! Campagn'Arts propose des interventions
-                                artistiques
-                                au plus près des habitants des zones rurales.</p>
-                        </div>
-                    </details>
-                </div>
-            </div>
-
-            <div class="contact-action">
-                <p><strong>Besoin d'en savoir plus ?</strong> Contactez Julie RUDELIN : <a
-                        href="mailto:actionculturelle@la-tannerie.com">actionculturelle@la-tannerie.com</a></p>
-            </div>
-        </section>
-
-        <div class="separateur-droite"></div>
-
-        <section class="bloc-studios">
-            <h2 class="titre-principal">Les Locaux de Répétitions</h2>
-            <p class="introduction">
-                Que vous soyez un groupe de métal, un duo de jazz ou un.e artiste solo, nos 3 studios (19 à 30 m²)
-                sont conçus pour vous offrir un confort de travail optimal.
-            </p>
-
-            <div class="alerte-travaux">
-                <h3>🚧 Info Travaux 2025/2026</h3>
-                <p>Les locaux restent ouverts ! Cependant, l'accueil change : rendez-vous côté parking skatepark
-                    (rue Jean-Marie Verne).
-                    <br>Horaires : Lundi au Vendredi, 17h à minuit. (Fermé le week-end).</br>
-                </p>
-            </div>
-
-            <div class="grille-tarifs">
-                <div class="tableau-prix">
-                    <h3>Tarifs à l'heure</h3>
-                    <ul>
-                        <li><strong>6€</strong> - Local vide</li>
-                        <li><strong>7€</strong> - Local + 1 équipement</li>
-                        <li><strong>10€</strong> - Local + 4 équipements</li>
-                    </ul>
-                </div>
-                <div class="liste-equipements">
-                    <h3>Matériel à disposition</h3>
-                    <p>Batterie Yamaha Stage Custom, Amplis basse Markbass, Amplis guitare (Koch, Randall, Orange).
-                        Nos consoles Zoom LiveTrack L20 permettent de vous enregistrer en toute autonomie !</p>
-                    <a href="mailto:repetitions@la-tannerie.com" class="bouton-plus">Réserver par mail (24h avant)</a>
+                    <h3>Sur-mesure</h3>
+                    <p>Chaque projet est unique. Nous adaptons le rythme et le support selon vos besoins.</p>
                 </div>
             </div>
         </section>
+    </main>
 
-        <section class="bloc-mao">
-            <div class="conteneur-mao">
-                <div class="colonne-texte">
-                    <h2 class="titre-principal">Les Capsules MAO</h2>
-                    <p class="introduction-mao">Découvrez la Musique Assistée par Ordinateur avec un professionnel. Des
-                        sessions d'une heure pour maîtriser vos outils.</p>
+    <div class="separateurGauche"></div>
 
-                    <div class="grille-niveaux">
-                        <div class="niveau-item">
-                            <h4>🌱 Débutant (10€/h)</h4>
-                            <p>Logic Pro, Ableton, prise de son voix et samples.</p>
-                        </div>
-                        <div class="niveau-item">
-                            <h4>🚀 Confirmé (15€/h)</h4>
-                            <p>Sidechain, mixage avancé, préparation pour le live.</p>
-                        </div>
+    <div class="conteneur">
+        <section class="focus-projets">
+            <h3 class="titre-principal">Nos projets phares en cours :</h3>
+            <div class="liste-accordeons">
+                <details>
+                    <summary>Concerts au Centre Pénitentiaire <span class="fleche">▼</span></summary>
+                    <div class="contenu-texte">
+                        <p>Nous intervenons au Centre Pénitentiaire de Bourg-en-Bresse pour offrir des moments
+                            d'évasion.</p>
                     </div>
-                </div>
-
-                <div class="colonne-video">
-                    <div class="video-container">
-                        <iframe src="https://www.youtube.com/embed/tO5n7w8H9Io" frameborder="0"
-                            allowfullscreen></iframe>
+                </details>
+                <details>
+                    <summary>Open-Mic & Ateliers d'écriture <span class="fleche">▼</span></summary>
+                    <div class="contenu-texte">
+                        <p>La Tannerie devient un atelier d'écriture. Venez affiner vos textes avec nos intervenants.
+                        </p>
                     </div>
-                </div>
+                </details>
+                <details>
+                    <summary>Campagn’Arts : La culture en milieu rural <span class="fleche">▼</span></summary>
+                    <div class="contenu-texte">
+                        <p>La musique n'appartient pas qu'à la ville ! Interventions artistiques au plus près des
+                            habitants.</p>
+                    </div>
+                </details>
             </div>
         </section>
-
-        <section class="bloc-trufferies">
-            <h2 class="titre-principal">Trufferies 2025 : Les Lauréats</h2>
-            <p class="center">Retour en images sur les talents détectés cette année à La Tannerie.</p>
-            <div class="grille-videos-trufferies">
-                <div class="carte-video">
-                    <iframe src="https://www.youtube.com/embed/3OxgaU6lfRw" allowfullscreen></iframe>
-                    <p><strong>Daymen</strong> - Lauréat Prix du Jury (Rap Fusion)</p>
-                </div>
-                <div class="carte-video">
-                    <iframe src="https://www.youtube.com/embed/L77a1VF7R4E" allowfullscreen></iframe>
-                    <p><strong>Neptune</strong> - Lauréate Prix du Public (Folk Urbaine)</p>
-                </div>
-            </div>
-        </section>
+    </div>
 
     </main>
+
 
     <footer>
         
